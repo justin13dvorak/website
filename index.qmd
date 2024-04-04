@@ -1,0 +1,24 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/OR_pic.jpg"
+  links:
+    - icon: envelope
+      text: Email
+      href: "justin13dvorak@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am an attending Trauma and Burn surgeon at MetroHealth Medical Center, board certified in General Surgery and Surgical Critical Care
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
